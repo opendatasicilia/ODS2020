@@ -1,3 +1,7 @@
 #main-slide .carousel-caption {
     background-color: #00000059;
   }
+
+  .footer-area .footer-social li .github:hover {
+        background-color: #00000059;
+  }
