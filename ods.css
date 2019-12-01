@@ -9,3 +9,15 @@
   .carousel-caption p.wow {
     font-weight:900;
   }
+
+  div.spnsors-logo p {
+    color:#212121;
+    margin-top: 15px;
+    text-transform: uppercase;
+    font-weight:900;
+    line-height:1rem;
+  }
+
+  #partners {
+    background-color:#f3f4f3;
+  }
