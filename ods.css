@@ -5,3 +5,7 @@
   .footer-area .footer-social li .github:hover {
         background-color: #00000059;
   }
+
+  .carousel-caption p.wow {
+    font-weight:900;
+  }
